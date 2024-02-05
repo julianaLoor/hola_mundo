@@ -5,7 +5,7 @@ public class Hola_Mundo {
 		System.out.println("Hola Mundo");
 		System.out.println("Que tal");
 		System.out.println("Nuevo commit");
-		System.out.println("Otro");
+		System.out.println("Otros");
 	}
 	
 
